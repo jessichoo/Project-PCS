@@ -1,0 +1,21 @@
+E:\Project_PCS\Project_SDP\Project_SDP\bin\Debug\Project_SDP.exe.config
+E:\Project_PCS\Project_SDP\Project_SDP\bin\Debug\Project_SDP.exe
+E:\Project_PCS\Project_SDP\Project_SDP\bin\Debug\Project_SDP.pdb
+E:\Project_PCS\Project_SDP\Project_SDP\bin\Debug\Oracle.DataAccess.dll
+E:\Project_PCS\Project_SDP\Project_SDP\obj\Debug\Project_SDP.csprojAssemblyReference.cache
+E:\Project_PCS\Project_SDP\Project_SDP\obj\Debug\MainWindow.g.cs
+E:\Project_PCS\Project_SDP\Project_SDP\obj\Debug\Window1.g.cs
+E:\Project_PCS\Project_SDP\Project_SDP\obj\Debug\App.g.cs
+E:\Project_PCS\Project_SDP\Project_SDP\obj\Debug\Project_SDP_MarkupCompile.cache
+E:\Project_PCS\Project_SDP\Project_SDP\obj\Debug\Project_SDP_MarkupCompile.lref
+E:\Project_PCS\Project_SDP\Project_SDP\obj\Debug\MainWindow.baml
+E:\Project_PCS\Project_SDP\Project_SDP\obj\Debug\Window1.baml
+E:\Project_PCS\Project_SDP\Project_SDP\obj\Debug\Project_SDP.g.resources
+E:\Project_PCS\Project_SDP\Project_SDP\obj\Debug\Project_SDP.Properties.Resources.resources
+E:\Project_PCS\Project_SDP\Project_SDP\obj\Debug\Project_SDP.csproj.GenerateResource.cache
+E:\Project_PCS\Project_SDP\Project_SDP\obj\Debug\Project_SDP.csproj.CoreCompileInputs.cache
+E:\Project_PCS\Project_SDP\Project_SDP\obj\Debug\Project_SDP.csproj.CopyComplete
+E:\Project_PCS\Project_SDP\Project_SDP\obj\Debug\Project_SDP.exe
+E:\Project_PCS\Project_SDP\Project_SDP\obj\Debug\Project_SDP.pdb
+E:\Project_PCS\Project_SDP\Project_SDP\obj\Debug\Master Kategori\Master_Kategori.g.cs
+E:\Project_PCS\Project_SDP\Project_SDP\obj\Debug\Master Kategori\Master_Kategori.baml
