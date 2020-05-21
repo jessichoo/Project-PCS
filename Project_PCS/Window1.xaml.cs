@@ -12,24 +12,26 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using Oracle.DataAccess.Client;
-namespace Project_SDP
+namespace Project_PCS
 {
     /// <summary>
     /// Interaction logic for Window1.xaml
     /// </summary>
     public partial class Window1 : Window
     {
-
-
-        public Window1()
+        OracleConnection conn;
+        public Window1(string ds)
         {
             InitializeComponent();
+            conn = MainWindow.con;
+
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void admin_Click(object sender, RoutedEventArgs e)
         {
-            Master_Kategori.Master_Kategori panel = new Master_Kategori.Master_Kategori();
-            canvas.Children.Add(panel);
+            admin a = new admin();
+            a.Show();
+            this.Close();
         }
     }
 }
